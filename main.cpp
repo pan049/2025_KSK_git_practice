@@ -3,7 +3,7 @@ using namespace std;
 // test
 input() {}
 
-calc() {}
+int calc() {}
 
 output() {}
 
