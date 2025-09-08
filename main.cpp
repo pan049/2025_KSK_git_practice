@@ -1,9 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 // test
+    int M;
+    int x;
 input() {}
 
-int calc() {}
+void calc() {
+    x=24-M;
+    x+=24;
+}
 
 output() {}
 
