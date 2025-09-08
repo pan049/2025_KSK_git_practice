@@ -1,12 +1,17 @@
 #include <bits/stdc++.h>
 using namespace std;
 // test
-input() {}
-// test
-calc() {}
+int M;
+int x;
+void input() {
+    cin >> M;
+}
 
-output() {}
+void calc() {}
 
+void output() {
+    cout << x << endl;
+}
 main() {
     input();
     calc();
