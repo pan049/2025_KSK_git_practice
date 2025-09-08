@@ -2,7 +2,7 @@
 using namespace std;
 // test
 input() {}
-
+// test
 calc() {}
 
 output() {}
