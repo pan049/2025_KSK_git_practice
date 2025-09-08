@@ -3,14 +3,14 @@ using namespace std;
 // test
     int M;
     int x;
-input() {}
+void input() {}
 
 void calc() {
     x=24-M;
     x+=24;
 }
 
-output() {}
+void output() {}
 
 main() {
     input();
